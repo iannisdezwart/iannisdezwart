@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Iannis de Zwart 🇳🇱
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iannisdezwart&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iannisdezwart&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **iannisdezwart/iannisdezwart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
