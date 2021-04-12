@@ -1,6 +1,45 @@
-### 👋 Hello, I'm Iannis de Zwart 🇳🇱
+<div align="center">
+	<h1>👋 Hello, I'm Iannis de Zwart 🇳🇱</h1>
+	<h3>📚 Exploring C++ 🖥</h3>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iannisdezwart&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+	<img
+		align="center"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=iannisdezwart&langs_count=5&theme=radical&layout=compact"
+		height="200" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+	<img
+		align="center"
+		src="https://github-readme-stats.vercel.app/api?username=iannisdezwart&count_private=true&theme=radical&show_icons=true"
+		height="200" />
+</a>
+
+<a href="https://github.com/iannisdezwart/contajs">
+	<img
+	     align="center"
+	     src="https://github-readme-stats.vercel.app/api/pin/?username=iannisdezwart&repo=contajs&theme=radical" />
+</a>
+
+<a href="https://github.com/iannisdezwart/forcefield-visualiser">
+	<img
+	     align="center"
+	     src="https://github-readme-stats.vercel.app/api/pin/?username=iannisdezwart&repo=forcefield-visualiser&theme=radical" />
+</a>
+
+<a href="https://github.com/iannisdezwart/beat-dash">
+	<img
+	     align="center"
+	     src="https://github-readme-stats.vercel.app/api/pin/?username=iannisdezwart&repo=beat-dash&theme=radical" />
+</a>
+
+<a href="https://github.com/iannisdezwart/tea">
+	<img
+	     align="center"
+	     src="https://github-readme-stats.vercel.app/api/pin/?username=iannisdezwart&repo=tea&theme=radical" />
+</a>
 
 <!--
 **iannisdezwart/iannisdezwart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
