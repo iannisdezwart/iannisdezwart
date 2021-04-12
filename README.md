@@ -1,7 +1,5 @@
 <div align="center">
 	<h1>👋 Hello, I'm Iannis de Zwart 🇳🇱</h1>
-	<br />
-	<h3>📚 Exploring C++ 🖥</h3>
 	<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
 		<img
 			align="center"
