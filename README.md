@@ -141,7 +141,7 @@
 		<a href="https://nodejs.org/en/" target="_blank">
 			<img
 				align="center"
-				src="https://user-images.githubusercontent.com/38715718/114413161-0545b000-9bae-11eb-954b-e2c4b6d7edbf.png"
+				src="https://user-images.githubusercontent.com/38715718/114414595-3f638180-9baf-11eb-9ef1-420b1bb017f1.png"
 				width="50"
 				height="50"
 				alt="NodeJS" />
